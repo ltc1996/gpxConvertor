@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+test.gpx
+test11.gpx
+activity_102713089.gpx
